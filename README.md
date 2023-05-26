@@ -7,6 +7,7 @@
 
 <h2>Punto 1: Link de figma</h2>
 <a href="https://www.figma.com/file/pfkAx51yf3HuhbVuTumAjm/Untitled?type=design&node-id=0%3A1&t=21szEC9eIA8uMjN2-1" target="__blank">Link de Figma</a>
+<a href="https://0m4rp.github.io/taller-9-full-stack/" target="_blank">Link de la página</a>
 
 <h2>Punto 2: HTML</h2>
 <img src= "./Public/images/html-page.png" alt="html">
