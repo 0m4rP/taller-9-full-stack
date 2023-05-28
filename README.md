@@ -18,3 +18,6 @@
 
 <h2>Punto 4: Texto en el navegador</h2>
 <img src= "./Public/images/punto-4.png" alt="punto4">
+
+<h2>Punto 5: Parrafo</h2>
+<img src="./Public/images/punto-5.png" alt="punto5">
