@@ -15,3 +15,6 @@
 
 <h2>Punto 3: CSS</h2>
 <img src= "./Public/images/Css.png" alt="css">
+
+<h2>Punto 4: Texto en el navegador</h2>
+<img src= "./Public/images/punto-4.png" alt="punto4">
