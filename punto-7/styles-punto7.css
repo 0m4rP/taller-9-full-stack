@@ -1,0 +1,19 @@
+div {
+    display: flex;
+    justify-content: flex-start;
+    background-color:pink;
+    padding: 20px;
+}
+
+#boton {
+    margin-right: 20px;
+    background-color: blue;
+    color: white;
+    padding: 6px 15px;
+}
+
+.info {
+    margin-right: 20px;
+    text-decoration: none;
+    color: white;
+}
