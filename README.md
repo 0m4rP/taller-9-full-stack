@@ -27,3 +27,6 @@
 
 <h2>Punto 7-8: Menú </h2>
 <img src="./Public/images/punto-7.png" alt="punto7">
+
+<h2>Punto 9: Tabla</h2>
+<img src="./Public/images/punto-9.png" alt="punto9">
