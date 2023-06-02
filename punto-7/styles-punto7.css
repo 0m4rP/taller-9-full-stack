@@ -1,7 +1,8 @@
 div {
     display: flex;
     justify-content: flex-start;
-    background-color:pink;
+    align-items: center;
+    background-color:rgb(191, 160, 255);
     padding: 20px;
 }
 
@@ -9,7 +10,9 @@ div {
     margin-right: 20px;
     background-color: blue;
     color: white;
-    padding: 6px 15px;
+    padding: 10px 15px;
+    cursor: pointer;
+    border: 0px;
 }
 
 .info {

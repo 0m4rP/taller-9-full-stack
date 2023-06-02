@@ -24,3 +24,6 @@
 
 <h2>Punto 6: Enlaces</h2>
 <img src="./Public/images/punto-6.png" alt="punto6">
+
+<h2>Punto 7-8: Menú </h2>
+<img src="./Public/images/punto-7.png" alt="punto7">
